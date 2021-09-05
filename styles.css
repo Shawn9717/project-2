@@ -1,0 +1,23 @@
+style>
+body{
+    background-image: url(images/her.jpeg);
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    backface-visibility: visible;
+}
+.topic-1{
+    text-align: center;
+}
+.topic-1 p {
+    font-weight: bold;
+    color: darkgreen;
+}
+.topic-1h1 ,h2{
+    color: black;
+    font-size: x-large;
+}
+input{
+    color: blue;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
