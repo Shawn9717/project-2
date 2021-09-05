@@ -6,7 +6,7 @@ body{
     backface-visibility: visible;
 }
 .topic-1{
-    text-align: center;
+    text-align: center; 
 }
 .topic-1 p {
     font-weight: bold;
