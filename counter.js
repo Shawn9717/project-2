@@ -1,7 +1,3 @@
-function message(){
-    alert(message);
-}
-alert("hallo there user welcome to my application");
 const CheckAkanName =(e)=>{
     e.preventDefault();
 const femaleNames=['Akosua' , 'Adwoa' , 'Abenna' , 'Akua' , 'Yaa' , 'Afau' ,'Ama']
