@@ -18,3 +18,6 @@ if(Dob===""){
 }
 }
 document.querySelector("#shawn").addEventListener("submit",CheckAkanName);
+function message(){
+    alert("welcome user");
+}
