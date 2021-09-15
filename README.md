@@ -1,4 +1,4 @@
-# project-2
+# Akan-application
 #### This application helps one know his/her Akan name, {2021}
 #### By **Shawn Njoga and Moringa School**
 ## Description
